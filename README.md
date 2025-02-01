@@ -67,15 +67,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 📧 Contact
 
 For any questions or suggestions, reach out via:
-📩 Email: your-email@example.com
-🌐 GitHub: your-repo-link
+📩 Email: genaiwork6@gmail.com
+🌐 GitHub: https://github.com/PriyeshDave
 
 🚀 Let’s redefine synthetic data generation!
-
----
-
-### **🔹 Notes for You:**  
-- Replace `"your-repo-link"` and `"your-email@example.com"` with actual details.  
-- The **License** section assumes MIT, but you can change it accordingly.  
-
-This **README.md** is well-structured, **clear, and developer-friendly**! 🚀 Let me know if you need any tweaks.
