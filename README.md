@@ -1,5 +1,3 @@
-Here’s the README.md file content for your SyntheGen repository:
-
 # 🚀 SyntheGen – A Framework for Synthetic Data Generation  
 
 **SyntheGen** is a powerful **ML/DL-based synthetic data generation framework** that creates high-quality **tabular synthetic datasets** while preserving the statistical properties of real data. Built with **Streamlit for UI**, it provides an interactive way to analyze and generate synthetic data.  
