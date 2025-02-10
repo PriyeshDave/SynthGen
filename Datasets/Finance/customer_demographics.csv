@@ -1,0 +1,101 @@
+customer_id,gender,marital_status,income_range,education_level,employment_status,home_ownership
+1,Male,Single,25K-50K,High School,Employed,Own
+2,Female,Widowed,100K+,PhD,Unemployed,Mortgage
+3,Female,Widowed,<25K,High School,Employed,Own
+4,Female,Single,50K-100K,Master,Retired,Mortgage
+5,Male,Divorced,50K-100K,Associate,Employed,Mortgage
+6,Female,Divorced,25K-50K,PhD,Employed,Rent
+7,Male,Widowed,25K-50K,Bachelor,Employed,Mortgage
+8,Male,Married,25K-50K,Master,Employed,Rent
+9,Male,Divorced,100K+,PhD,Employed,Mortgage
+10,Male,Divorced,25K-50K,High School,Employed,Rent
+11,Male,Single,25K-50K,High School,Employed,Mortgage
+12,Female,Single,25K-50K,High School,Unemployed,Mortgage
+13,Male,Married,50K-100K,High School,Retired,Mortgage
+14,Female,Divorced,<25K,Bachelor,Employed,Mortgage
+15,Male,Divorced,25K-50K,Master,Employed,Rent
+16,Female,Single,50K-100K,Associate,Employed,Rent
+17,Non-Binary,Divorced,100K+,Bachelor,Employed,Own
+18,Male,Widowed,25K-50K,Bachelor,Employed,Rent
+19,Male,Single,25K-50K,Associate,Employed,Own
+20,Male,Married,25K-50K,Associate,Employed,Rent
+21,Female,Single,50K-100K,High School,Employed,Mortgage
+22,Female,Divorced,25K-50K,Bachelor,Employed,Own
+23,Male,Married,50K-100K,PhD,Employed,Mortgage
+24,Female,Single,50K-100K,Associate,Student,Rent
+25,Male,Widowed,50K-100K,Associate,Employed,Mortgage
+26,Male,Widowed,25K-50K,Master,Employed,Mortgage
+27,Female,Single,100K+,PhD,Employed,Own
+28,Male,Widowed,50K-100K,PhD,Employed,Own
+29,Female,Widowed,50K-100K,Associate,Unemployed,Mortgage
+30,Male,Widowed,<25K,High School,Employed,Rent
+31,Non-Binary,Married,100K+,Master,Student,Own
+32,Male,Widowed,<25K,PhD,Employed,Rent
+33,Male,Widowed,25K-50K,Associate,Employed,Rent
+34,Female,Widowed,<25K,PhD,Unemployed,Rent
+35,Male,Married,50K-100K,Master,Employed,Rent
+36,Non-Binary,Single,25K-50K,Master,Employed,Rent
+37,Female,Divorced,<25K,Bachelor,Employed,Rent
+38,Female,Widowed,<25K,Associate,Employed,Mortgage
+39,Female,Single,<25K,Master,Retired,Own
+40,Female,Widowed,50K-100K,Bachelor,Employed,Mortgage
+41,Female,Married,50K-100K,Bachelor,Employed,Own
+42,Female,Single,25K-50K,PhD,Employed,Rent
+43,Female,Married,25K-50K,PhD,Employed,Own
+44,Male,Widowed,50K-100K,Bachelor,Employed,Own
+45,Male,Widowed,<25K,PhD,Employed,Rent
+46,Female,Married,25K-50K,Master,Employed,Own
+47,Male,Divorced,100K+,High School,Retired,Rent
+48,Female,Married,50K-100K,Master,Employed,Own
+49,Male,Widowed,25K-50K,Bachelor,Employed,Own
+50,Male,Married,50K-100K,Bachelor,Retired,Rent
+51,Female,Divorced,25K-50K,Master,Employed,Rent
+52,Female,Married,50K-100K,PhD,Employed,Mortgage
+53,Male,Divorced,<25K,PhD,Employed,Own
+54,Female,Divorced,<25K,Bachelor,Employed,Rent
+55,Female,Married,<25K,Associate,Employed,Mortgage
+56,Male,Married,100K+,PhD,Student,Rent
+57,Female,Single,50K-100K,Master,Employed,Own
+58,Male,Widowed,<25K,PhD,Employed,Mortgage
+59,Male,Divorced,<25K,Master,Unemployed,Rent
+60,Non-Binary,Single,50K-100K,Bachelor,Employed,Rent
+61,Male,Married,<25K,PhD,Employed,Rent
+62,Female,Widowed,25K-50K,Master,Employed,Rent
+63,Female,Single,100K+,Bachelor,Student,Rent
+64,Male,Divorced,25K-50K,Associate,Employed,Own
+65,Female,Single,50K-100K,Master,Employed,Rent
+66,Female,Divorced,100K+,Associate,Employed,Own
+67,Male,Married,25K-50K,Associate,Employed,Mortgage
+68,Female,Widowed,<25K,High School,Employed,Mortgage
+69,Female,Widowed,25K-50K,PhD,Employed,Own
+70,Female,Widowed,100K+,Master,Unemployed,Rent
+71,Female,Married,100K+,Associate,Employed,Own
+72,Male,Divorced,50K-100K,High School,Employed,Own
+73,Female,Married,<25K,Bachelor,Unemployed,Own
+74,Female,Widowed,50K-100K,Master,Student,Rent
+75,Female,Married,100K+,Associate,Employed,Mortgage
+76,Female,Married,50K-100K,PhD,Employed,Own
+77,Female,Married,100K+,High School,Employed,Rent
+78,Female,Divorced,100K+,Associate,Student,Rent
+79,Female,Single,50K-100K,PhD,Student,Own
+80,Female,Single,50K-100K,Associate,Employed,Mortgage
+81,Female,Married,25K-50K,Master,Retired,Mortgage
+82,Female,Single,<25K,Master,Employed,Mortgage
+83,Female,Single,50K-100K,Master,Employed,Rent
+84,Male,Married,25K-50K,High School,Employed,Own
+85,Male,Married,100K+,Master,Unemployed,Own
+86,Male,Widowed,100K+,PhD,Employed,Rent
+87,Female,Single,50K-100K,Associate,Retired,Rent
+88,Female,Divorced,<25K,Bachelor,Unemployed,Mortgage
+89,Female,Married,25K-50K,PhD,Unemployed,Rent
+90,Male,Widowed,<25K,PhD,Employed,Own
+91,Female,Divorced,50K-100K,Master,Employed,Rent
+92,Male,Single,50K-100K,High School,Employed,Rent
+93,Male,Widowed,100K+,Associate,Employed,Rent
+94,Female,Married,25K-50K,High School,Employed,Mortgage
+95,Female,Divorced,100K+,Associate,Student,Mortgage
+96,Male,Married,100K+,Associate,Employed,Mortgage
+97,Male,Single,25K-50K,High School,Employed,Own
+98,Male,Divorced,100K+,PhD,Employed,Rent
+99,Male,Single,25K-50K,Associate,Employed,Own
+100,Female,Single,25K-50K,High School,Employed,Own
