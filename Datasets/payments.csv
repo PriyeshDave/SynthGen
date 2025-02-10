@@ -1,0 +1,101 @@
+payment_id,order_id,payment_method,status
+P1,O19,Credit Card,Pending
+P2,O58,Credit Card,Paid
+P3,O96,Bitcoin,Paid
+P4,O1,Bank Transfer,Paid
+P5,O69,Credit Card,Failed
+P6,O4,Bank Transfer,Paid
+P7,O16,Bitcoin,Failed
+P8,O24,Credit Card,Failed
+P9,O80,Bank Transfer,Paid
+P10,O2,Credit Card,Paid
+P11,O92,Bitcoin,Paid
+P12,O32,Bank Transfer,Pending
+P13,O91,Credit Card,Paid
+P14,O84,Bitcoin,Failed
+P15,O24,Credit Card,Paid
+P16,O12,Credit Card,Pending
+P17,O50,PayPal,Paid
+P18,O35,PayPal,Pending
+P19,O33,Bitcoin,Pending
+P20,O33,PayPal,Paid
+P21,O61,Bitcoin,Failed
+P22,O51,PayPal,Pending
+P23,O43,Credit Card,Paid
+P24,O12,Bitcoin,Paid
+P25,O67,Bitcoin,Failed
+P26,O65,Credit Card,Pending
+P27,O33,Bitcoin,Pending
+P28,O40,Bitcoin,Paid
+P29,O74,PayPal,Paid
+P30,O43,Bitcoin,Failed
+P31,O44,Bank Transfer,Failed
+P32,O29,Credit Card,Pending
+P33,O13,PayPal,Pending
+P34,O12,PayPal,Paid
+P35,O95,Bank Transfer,Pending
+P36,O46,Credit Card,Failed
+P37,O2,Credit Card,Failed
+P38,O35,PayPal,Paid
+P39,O87,Bitcoin,Failed
+P40,O81,PayPal,Failed
+P41,O90,Credit Card,Failed
+P42,O8,Bank Transfer,Failed
+P43,O93,PayPal,Paid
+P44,O26,Credit Card,Paid
+P45,O74,PayPal,Pending
+P46,O90,Bitcoin,Failed
+P47,O34,PayPal,Pending
+P48,O7,PayPal,Paid
+P49,O68,Credit Card,Paid
+P50,O58,Credit Card,Paid
+P51,O75,Credit Card,Paid
+P52,O29,PayPal,Paid
+P53,O36,Bitcoin,Paid
+P54,O89,Bank Transfer,Paid
+P55,O21,Bank Transfer,Failed
+P56,O36,Credit Card,Pending
+P57,O10,Credit Card,Paid
+P58,O73,PayPal,Failed
+P59,O24,Bank Transfer,Failed
+P60,O64,Credit Card,Pending
+P61,O99,Bitcoin,Paid
+P62,O49,Bitcoin,Pending
+P63,O99,Credit Card,Paid
+P64,O36,Credit Card,Failed
+P65,O82,Bank Transfer,Failed
+P66,O96,Bank Transfer,Failed
+P67,O24,PayPal,Failed
+P68,O23,Bank Transfer,Pending
+P69,O62,Bitcoin,Paid
+P70,O96,Bitcoin,Paid
+P71,O37,Credit Card,Pending
+P72,O12,Bank Transfer,Paid
+P73,O55,PayPal,Failed
+P74,O13,Bitcoin,Paid
+P75,O23,Bitcoin,Failed
+P76,O89,PayPal,Pending
+P77,O99,PayPal,Paid
+P78,O30,Bitcoin,Pending
+P79,O17,Bitcoin,Paid
+P80,O62,PayPal,Failed
+P81,O84,Bitcoin,Pending
+P82,O89,Credit Card,Paid
+P83,O86,Credit Card,Failed
+P84,O13,PayPal,Pending
+P85,O59,Bank Transfer,Pending
+P86,O19,PayPal,Paid
+P87,O49,PayPal,Paid
+P88,O100,Bank Transfer,Paid
+P89,O12,Bank Transfer,Failed
+P90,O61,Bank Transfer,Paid
+P91,O19,Credit Card,Pending
+P92,O76,Bitcoin,Pending
+P93,O9,Credit Card,Paid
+P94,O71,Bitcoin,Paid
+P95,O28,Credit Card,Pending
+P96,O78,Bitcoin,Failed
+P97,O95,Credit Card,Paid
+P98,O52,Bank Transfer,Paid
+P99,O83,PayPal,Pending
+P100,O16,Credit Card,Paid
